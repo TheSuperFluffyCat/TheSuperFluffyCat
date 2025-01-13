@@ -1,7 +1,7 @@
 # 👋 Welcome to FluffyCat's World! 🐾
 
 ## 🌌 About Me
-I'm an 18-year-old developer passionate about:
+I'm an new developer passionate about:
 - 🎮 Minecraft Plugins & Mods
 - 💻 Full-Stack Web Development
 - 🌟 Experimenting with creative coding and design
