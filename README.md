@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Welcome to FluffyCat's World! 🐾
 
-<!--
-**TheSuperFluffyCat/TheSuperFluffyCat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌌 About Me
+I'm an 18-year-old developer passionate about:
+- 🎮 Minecraft Plugins & Mods
+- 💻 Full-Stack Web Development
+- 🌟 Experimenting with creative coding and design
 
-Here are some ideas to get you started:
+## 🛠️ Technologies I Love
+- **Languages:** Java, JavaScript, Python
+- **Tools:** IntelliJ IDEA, Git, VS Code
+- **Frameworks:** Spring Boot, React, Node.js
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎮 My Minecraft Projects
+| Plugin Name    | Description                                                        | Links        |
+|----------------|--------------------------------------------------------------------|---------------------------------------------------------|
+| **LobbySystem** | A Simple Network lobby system with alot of supports and updates   | [Modrinth](https://modrinth.com/plugin/lobbysystem)     |
+| **Velocity-Skript** | A plugin that aims to add skript features to velocity         | [Modrinth](https://modrinth.com/plugin/velocity-skript) |
+
+## 📊 My GitHub Stats
+❗In Work
+
+---
