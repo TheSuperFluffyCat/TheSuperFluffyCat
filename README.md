@@ -18,6 +18,7 @@ I'm a new developer passionate about:
 | **LobbySystem**    | A Simple Network lobby system with a lot of support and updates   | [Modrinth](https://modrinth.com/plugin/lobbysystem)     |
 | **Velocity-Skript** | A plugin that aims to add Skript features to Velocity             | [Modrinth](https://modrinth.com/plugin/velocity-skript) |
 | **LifeSteal Plugin** | A plugin that add LifeSteal system to Minecraft             | [Spigot](https://www.spigotmc.org/resources/lifesteal.122177/) |
+| **LifeSteal Plugin** | A plugin that add LifeSteal system to Minecraft             | [Modrinth](https://modrinth.com/plugin/lifesteal-system) |
 
 ![Rainbow Line](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
 
